@@ -37,7 +37,7 @@ packages:
 - .
 - location:
     git: https://github.com/typedrat/megaparsec.git
-    commit: 92a81ecd386358c0c316d883b054df6d587b1d1b
+    commit: 00618a4ee73ac3aebcb0103db1d6c08811fcb2b2
   extra-dep: true
 
 allow-newer: true
